@@ -117,14 +117,17 @@ body{
 /* interactive ness*/
 
 .accordion-body img{
-    float: right;
-    margin-right: 10px;
+   
+   
+   /*  margin-right: 10px;*/
     display: flex;
-    width: 20%;
-    height: 200px;
+    width: 50%;
+    height: 20%;
     
 }
 
 .accordion-body p{
     font-size: 20px;
 }
+
+
