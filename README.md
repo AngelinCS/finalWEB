@@ -1,7 +1,8 @@
 # finalWEB
 This is the link to the GitHub Pages
 https://angelincs.github.io/finalWEB/
-
+and this is the link to our website proposal
+https://csula-my.sharepoint.com/:w:/r/personal/nelkin2_calstatela_edu/_layouts/15/Doc.aspx?sourcedoc=%7B33322363-2537-40D3-95B2-256A923404D7%7D&file=Website%20Proposal-%20Submission.docx&action=default&mobileredirect=true
 
 ## LightHouse Results
 
